@@ -1,4 +1,4 @@
 <?php
 include("../config/includes.php");
-$controller=new Controller(false,"Index");
+$controller=new Controller(true,"Index");
 ?>

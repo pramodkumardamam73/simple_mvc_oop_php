@@ -1,5 +1,9 @@
 <?php
-define('APP_PATH',"C:/xampp/htdocs/mvc_oop/");
+define('APP_PATH',"path-to-this-app");
+define('DATABASE_ADDRESS','database-address');
+define('DATABASE_USERNAME','database-username');
+define('DATABASE_PASSWORD','database-password');
+define('DATABASE','database-name');
 
 class Controller
 {
